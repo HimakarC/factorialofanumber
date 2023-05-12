@@ -1,0 +1,2 @@
+# factorialofanumber
+Linux Shell Scripting
