@@ -1,5 +1,4 @@
 # factorialofanumber
-#Linux Shell Scripting
 
 #Read a number from user
 echo "Enter integer: "
