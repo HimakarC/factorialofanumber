@@ -1,5 +1,6 @@
 # factorialofanumber
 
+
 #Read a number from user
 echo "Enter integer: "
 read num
